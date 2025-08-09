@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { id: 'IND-223', nombre: 'Análisis Multivariado', creditos: 6, semestre: 4, prerequisitos: ['IND-213'] },
         { id: 'IND-221', nombre: 'Ecuaciones Diferenciales', creditos: 6, semestre: 4, prerequisitos: ['IND-211'] },
         { id: 'IND-222', nombre: 'Física II', creditos: 6, semestre: 4, prerequisitos: ['IND-212'] },
-        { id: 'IND-334', nombre: 'Módulo Integ. CC.BB.', creditos: 6, semestre: 4, prerequisitos: ['IND-213' , 'IND-214' , 'IND-211' , 'IND-212' , 'IND-300'] },
+        { id: 'IND-334', nombre: 'Módulo Integ. CC.BB.', creditos: 6, semestre: 4, prerequisitos: ['IND-213' , 'IND-214' , 'IND-211' , 'IND-212' , 'IFG-300'] },
         // Semestre 5
         { id: 'IND-311', nombre: 'M. M. y Estocástico', creditos: 6, semestre: 5, prerequisitos: ['IND-223'] },
         { id: 'IND-313', nombre: 'Diseño Ind. y Dib. Tec.', creditos: 6, semestre: 5, prerequisitos: [] },
