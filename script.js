@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { id: 'IND-422', nombre: 'Control de Gestión', creditos: 6, semestre: 8, prerequisitos: ['IND-412'] },
         { id: 'IND-423', nombre: 'Des. Personal y Liderazgo', creditos: 3, semestre: 8, prerequisitos: ['IND-413'] },
         { id: 'IND-424', nombre: 'Creatividad Prototipos Negocios', creditos: 4, semestre: 8, prerequisitos: ['IND-414'] },
-        { id: 'IND-425', nombre: 'Módulo Integ. Lic. (Práctica 1)', creditos: 10, semestre: 7, prerequisitos: ['IND-411' , 'IND-412' , 'IND-413' , 'IND-414' , 'IND-415'] },
+        { id: 'IND-425', nombre: 'Módulo Integ. Lic. (Práctica 1)', creditos: 10, semestre: 8, prerequisitos: ['IND-411' , 'IND-412' , 'IND-413' , 'IND-414' , 'IND-415'] },
         { id: 'CFG', nombre: 'Certificación CFG I', creditos: 5, semestre: 8, prerequisitos: [] },
         // Semestre 9
         { id: 'IND-511', nombre: 'Optimiza.', creditos: 6, semestre: 9, prerequisitos: ['IND-421'] },
